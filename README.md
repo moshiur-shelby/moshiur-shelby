@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moshiur-shelby&label=Profile%20views&color=0e75b6&style=flat" alt="psycho-picchi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moshiur-shelby&label=Profile%20views&color=0e75b6&style=flat" alt="moshiur-shelby" /> </p>
 <p align="left">
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
@@ -35,22 +35,18 @@
 <br/>
 
 ### &nbsp; Github Statistics </i></b></h3>
-<a href="https://github.com/PSYCHO-PICCHI"><img width=550 src="https://github-profile-trophy.vercel.app/?username=PSYCHO-PICCHI&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/moshiur-shelby"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MOSHIUR-FUCKIN'-SHELBY&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <br/>
-<a href="https://github.com/PSYCHO-PICCHI/github-readme-stats"><img alt="PSYCHO-PICCHI's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PSYCHO-PICCHI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-        <a href="https://github.com/PSYCHO-PICCHI/github-readme-stats"><img alt="PSYCHO-PICCHI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSYCHO-PICCHI&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/moshiur-shelby/github-readme-stats"><img alt="moshiur-shelby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MOSHIUR-FUCKIN'-SHELBY&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <a href="https://github.com/moshiur-shelby/github-readme-stats"><img alt="MOSHIUR-FUCKIN'-SHELBY's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSHIUR-FUCKIN'-SHELBY&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
           <br/>
-GitHub Contribution Graph
-</p>
-<p align="center"> 
-<a href="https://github.com/PSYCHO-PICCHI/2004-2009"><img title="2004-2009" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=2004-2009&theme=vision-friendly-dark"></a>
 
-<a href="https://github.com/PSYCHO-PICCHI/BD-11-DIGIT"><img title="BD-11-DIGIT" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=BD-11-DIGIT&theme=vision-friendly-dark"></a>
 
-<a href="https://github.com/PSYCHO-PICCHI/BD-6-DIGIT.git"><img title="BD-6-DIGIT" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=BD-6-DIGIT&theme=gotham"></a> 
 
-<a href="https://github.com/PSYCHO-PICCHI/Fast-Dump.git"><img title="Fast Dump" src="https://github-readme-stats.vercel.app/api/pin/?username=PSYCHO-PICCHI&repo=Fast-Dump&theme=gotham"></a>
+
+
+
 
 
 
