@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+S+S+A+L+A+M+U + A+L+A+I+K+U+M+)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&size=35&color=F74A00&background=86FF5A00&lines=ASSALAMU+ALAIKUM+!!;WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-picchi&label=Profile%20views&color=0e75b6&style=flat" alt="psycho-picchi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moshiur-shelby&label=Profile%20views&color=0e75b6&style=flat" alt="psycho-picchi" /> </p>
 <p align="left">
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
