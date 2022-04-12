@@ -34,13 +34,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 <br/>
 
-### &nbsp; Github Statistics </i></b></h3>
-<a href="https://github.com/moshiur-shelby"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MOSHIUR-FUCKIN'-SHELBY&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-<br/>
-<a href="https://github.com/moshiur-shelby/github-readme-stats"><img alt="moshiur-shelby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MOSHIUR-FUCKIN'-SHELBY&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-        <a href="https://github.com/moshiur-shelby/github-readme-stats"><img alt="MOSHIUR-FUCKIN'-SHELBY's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSHIUR-FUCKIN'-SHELBY&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-          <br/>
 
 
 
